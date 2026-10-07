@@ -1,0 +1,9 @@
+videos/*
+!videos/.gitkeep
+
+divididos/*
+!divididos/.gitkeep
+
+__pycache__/
+*.pyc
+.DS_Store
